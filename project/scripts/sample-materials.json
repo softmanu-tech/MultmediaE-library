@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Material 1",
+    "type": "video",
+    "description": "A great book",
+    "fileUrl": "public/videos",
+    "thumbnailUrl": "public/thumbnails",
+    "author": "Author 1",
+    "publishDate": "2024-01-01",
+    "category": "fiction",
+    "duration": 120
+  },
+  {
+    "title": "Material 2",
+    "type": "book",
+    "description": "A summary of about 20 to 30 words of the particular item",
+    "fileUrl": "public/books/",
+    "thumbnailUrl": "public/thumbnails/",
+    "author": "Author 2",
+    "publishDate": "2024-02-01",
+    "category": "non-fiction"
+  }
+]
