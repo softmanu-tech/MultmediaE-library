@@ -1,0 +1,166 @@
+[
+  {
+    "title": "Black Holes",
+    "type": "video",
+    "description": "A video about the black hole and what is in there. A great way to entertain yourself as well as educate yourself",
+    "fileUrl": "public/videos/blackholes.mp4.mp4",
+    "thumbnailUrl": "public/thumbnails/thumbnailblackhole.jpg",
+    "author": "Nat Geo",
+    "publishDate": "2024-01-01",
+    "category": "non-fiction",
+    "duration": 120
+  },
+  {
+    "title": "Power of Cheetahs",
+    "type": "video",
+    "description": "The animals cheetahs are almost greatly underrated but this video is out to prove that we are gravely wrong to be doing that because they can do some pf the greatest things.",
+    "fileUrl": "public/videos/cheetahs.mp4",
+    "thumbnailUrl": "public/thumbnails/thumbnailcheetah.jpg",
+    "author": "Nat Geo",
+    "publishDate": "2024-01-01",
+    "category": "non-fiction",
+    "duration": 120
+  },
+  {
+    "title": "How to build a great company",
+    "type": "video",
+    "description": "This video teaches about how to build a business from scratch and have it be sucessful.It is simple but comprehensive way to learn.",
+    "fileUrl": "public/videos/Greatcompany.mp4",
+    "thumbnailUrl": "public/thumbnails/thumbnailcompany.jpg",
+    "author": "Vusi Thembekwayo",
+    "publishDate": "2024-01-01",
+    "category": "non-fiction",
+    "duration": 120
+  },
+  {
+    "title": "Improve your Critical Thinking",
+    "type": "video",
+    "description": "This is a video about wht you can do to improve your critical thinking. It is a walk through on what you can do to improve your critical thinking.",
+    "fileUrl": "project/public/videos/criticalthinking.mp4",
+    "thumbnailUrl": "public/thumbnails/thumbnailcriticalthinking.jpg",
+    "author": "Ted-Ed",
+    "publishDate": "2024-01-01",
+    "category": "non-fiction",
+    "duration": 120
+  },
+  {
+    "title": "How You Can Achieve Anything",
+    "type": "video",
+    "description": "This is a video about how to achieve the things we believe are hard to do. It offers great motivation to people who feel lost.",
+    "fileUrl": "project/public/video/achieveanything.mp4",
+    "thumbnailUrl": "public/thumbnails/achievemant.jpg",
+    "author": "Great Achiever",
+    "publishDate": "2024-01-01",
+    "category": "fiction",
+    "duration": 120
+  },
+  {
+    "title": "Empty Your Mind",
+    "type": "video",
+    "description": "This teaches about how to achieve piece of mind in the midst of a storm. This is a very useful resource for those struggling to achieve quiet.",
+    "fileUrl": "public/videos/emptymind.mp4",
+    "thumbnailUrl": "public/thumbnails/thumbnailemptymind.jpg",
+    "author": "Author 1",
+    "publishDate": "2024-01-01",
+    "category": "fiction",
+    "duration": 120
+  },
+  {
+    "title": "A single Step",
+    "type": "video",
+    "description": "A great video about how to take life step by step as the challenges arise. It helps us relax when all the things in life are falling part.",
+    "fileUrl": "public/videos/singlestep.mp4",
+    "thumbnailUrl": "public/thumbnails/thumbnailsinglestep.jpg",
+    "author": "Great Achiever",
+    "publishDate": "2024-01-01",
+    "category": "fiction",
+    "duration": 120
+  },
+  {
+    "title": "Three Laughing Monks",
+    "type": "video",
+    "description": "A fictional story about three monks who are having a lot of fun with the current life they live. ",
+    "fileUrl": "public/videos/laughingmonks.mp4",
+    "thumbnailUrl": "public/thumbnails/laughingmonk.jpg",
+    "author": "Author 1",
+    "publishDate": "2024-01-01",
+    "category": "fiction",
+    "duration": 120
+  },
+  {
+    "title": "The Complete Backend Development Journey",
+    "type": "video",
+    "description": "This video gives you an overview of what you are expected to do if you want to be a backend developer. It shows you the tips and tricks you need to know.",
+    "fileUrl": "public/videos/backenddevroadmap.mp4",
+    "thumbnailUrl": "public/thumbnails/thumbnailbackenddev.jpg",
+    "author": "John Mosh",
+    "publishDate": "2024-01-01",
+    "category": "educational",
+    "duration": 120
+  },
+  {
+    "title": "Mobile Developer Roadmap",
+    "type": "video",
+    "description": "This video gives you an overview of what you are expected to do if you want to be a mobile developer. It shows you the tips and tricks you need to know.",
+    "fileUrl": "public/videos/mobiledevroadmap.mp4",
+    "thumbnailUrl": "public/thumbnails/thumbnailmobiledevroadmap.jpg",
+    "author": "John Mosh",
+    "publishDate": "2024-01-01",
+    "category": "educational",
+    "duration": 120
+  },
+  {
+    "title": "ChatGPT Prompting",
+    "type": "video",
+    "description": "This is a video that gives you an overview of how to prompt an LLM for the perfect response. It is very edifying and eye opening about LLM prompting.",
+    "fileUrl": "public/videos/chatgptprompting.mp4",
+    "thumbnailUrl": "public/thumbnails/gptprompting.jpg",
+    "author": "Chen Wang",
+    "publishDate": "2024-01-01",
+    "category": "educational",
+    "duration": 120
+  },
+  {
+    "title": "Installing Next.js",
+    "type": "video",
+    "description": "A video that teaches briefly about how to install next.js on your computer with ease and also briefly how to use the software.",
+    "fileUrl": "public/videos/installationguide.mp4",
+    "thumbnailUrl": "public/thumbnails/installation.jpg",
+    "author": "John Mosh",
+    "publishDate": "2024-01-01",
+    "category": "educational",
+    "duration": 120
+  },
+  {
+    "title": "A Powerful Message",
+    "type": "video",
+    "description": "This is a short but precise  message about how life can be tough but everyone needs to keep moving on. It is a great motivational speech for anyone.",
+    "fileUrl": "public/videos/powerfulmessage.mp4",
+    "thumbnailUrl": "public/thumbnails/powerful.jpg",
+    "author": "Vusi Thembekwayo",
+    "publishDate": "2024-01-01",
+    "category": "educational",
+    "duration": 120
+  },
+  {
+    "title": "Material 1",
+    "type": "video",
+    "description": "A great book",
+    "fileUrl": "public/videos",
+    "thumbnailUrl": "public/thumbnails",
+    "author": "Author 1",
+    "publishDate": "2024-01-01",
+    "category": "fiction",
+    "duration": 120
+  },
+  {
+    "title": "Material 2",
+    "type": "book",
+    "description": "A summary of about 20 to 30 words of the particular item",
+    "fileUrl": "public/books/",
+    "thumbnailUrl": "public/thumbnails/",
+    "author": "Author 2",
+    "publishDate": "2024-02-01",
+    "category": "non-fiction"
+  }
+]
